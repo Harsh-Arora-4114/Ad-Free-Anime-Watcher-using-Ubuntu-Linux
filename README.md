@@ -50,5 +50,8 @@ ani-cli -s "One Piece"
 ```
 _Select the episode and it will play via MPV._
 
+## License
+This project is licensed under the MIT License.
+
 ## Author
 Developed by **Harsh Arora**.
